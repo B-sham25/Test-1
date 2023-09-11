@@ -1,0 +1,38 @@
+body {
+    background-image: url('./Images/Meal\ 24.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+
+input, textarea {
+    opacity: 0.7; 
+}
+
+
+
+h1{color: green;
+   font-weight: bold;}
+
+a{font-size: 35px;
+    font-weight: 600;
+  padding-left: 10px;
+  }
+
+
+/* Visited state */
+a:visited {
+    color: darkgreen; /* Color for visited links */
+}
+
+/* Active state (when clicked) */
+a:active {
+    color: green; /* Color when active (clicked) */
+}
+
+.submit1 button{background-color: darkgreen;
+               border-color:darkgreen;
+               }
+.submit1{padding-left:45%;
+       }
+
